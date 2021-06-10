@@ -5540,11 +5540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\Prototype\\Prototype.Application\\Prototype.Application.csproj",
+      "projectUniqueName": "D:\\GitHub\\TCC\\Prototype\\Prototype.Application\\Prototype.Application.csproj",
       "projectName": "Prototype.Application",
-      "projectPath": "D:\\GitHub\\Prototype\\Prototype.Application\\Prototype.Application.csproj",
+      "projectPath": "D:\\GitHub\\TCC\\Prototype\\Prototype.Application\\Prototype.Application.csproj",
       "packagesPath": "C:\\Users\\GabrielPuente\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\Prototype\\Prototype.Application\\obj\\",
+      "outputPath": "D:\\GitHub\\TCC\\Prototype\\Prototype.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5565,11 +5565,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\GitHub\\Prototype\\Prototype.Domain\\Prototype.Domain.csproj": {
-              "projectPath": "D:\\GitHub\\Prototype\\Prototype.Domain\\Prototype.Domain.csproj"
+            "D:\\GitHub\\TCC\\Prototype\\Prototype.Domain\\Prototype.Domain.csproj": {
+              "projectPath": "D:\\GitHub\\TCC\\Prototype\\Prototype.Domain\\Prototype.Domain.csproj"
             },
-            "D:\\GitHub\\Prototype\\Prototype.Service\\Prototype.Service.csproj": {
-              "projectPath": "D:\\GitHub\\Prototype\\Prototype.Service\\Prototype.Service.csproj"
+            "D:\\GitHub\\TCC\\Prototype\\Prototype.Service\\Prototype.Service.csproj": {
+              "projectPath": "D:\\GitHub\\TCC\\Prototype\\Prototype.Service\\Prototype.Service.csproj"
             }
           }
         }

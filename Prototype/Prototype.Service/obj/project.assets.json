@@ -73,11 +73,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\Prototype\\Prototype.Service\\Prototype.Service.csproj",
+      "projectUniqueName": "D:\\GitHub\\TCC\\Prototype\\Prototype.Service\\Prototype.Service.csproj",
       "projectName": "Prototype.Service",
-      "projectPath": "D:\\GitHub\\Prototype\\Prototype.Service\\Prototype.Service.csproj",
+      "projectPath": "D:\\GitHub\\TCC\\Prototype\\Prototype.Service\\Prototype.Service.csproj",
       "packagesPath": "C:\\Users\\GabrielPuente\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\Prototype\\Prototype.Service\\obj\\",
+      "outputPath": "D:\\GitHub\\TCC\\Prototype\\Prototype.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -98,8 +98,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\GitHub\\Prototype\\Prototype.Domain\\Prototype.Domain.csproj": {
-              "projectPath": "D:\\GitHub\\Prototype\\Prototype.Domain\\Prototype.Domain.csproj"
+            "D:\\GitHub\\TCC\\Prototype\\Prototype.Domain\\Prototype.Domain.csproj": {
+              "projectPath": "D:\\GitHub\\TCC\\Prototype\\Prototype.Domain\\Prototype.Domain.csproj"
             }
           }
         }

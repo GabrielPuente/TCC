@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XNrtWh3ce/qwxaa4tgirPnHl7Fs2d5G6SnRK0OcprT3dNfS5BFnGjyN7BYcuUDKAN8A7GsYZi1n7yLF/6MuSyA==",
+  "dgSpecHash": "yy612OpW06JF4DzL/p3/IZbt/w0rXQaUJyioaYdEWAvSA2m6MXAtclBzN7Mp6E96nbyg3b95m/j7CiiK4tpDxw==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\Prototype\\Prototype.Application.MVC\\Prototype.Application.MVC.csproj",
+  "projectFilePath": "D:\\GitHub\\TCC\\Prototype\\Prototype.Application.MVC\\Prototype.Application.MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GabrielPuente\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\GabrielPuente\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

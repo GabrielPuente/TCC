@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\Prototype\\Prototype.Application.MVC\\Prototype.Application.MVC.csproj": {}
+    "D:\\GitHub\\TCC\\Prototype\\Prototype.Application.MVC\\Prototype.Application.MVC.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\Prototype\\Prototype.Application.MVC\\Prototype.Application.MVC.csproj": {
+    "D:\\GitHub\\TCC\\Prototype\\Prototype.Application.MVC\\Prototype.Application.MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\Prototype\\Prototype.Application.MVC\\Prototype.Application.MVC.csproj",
+        "projectUniqueName": "D:\\GitHub\\TCC\\Prototype\\Prototype.Application.MVC\\Prototype.Application.MVC.csproj",
         "projectName": "Prototype.Application.MVC",
-        "projectPath": "D:\\GitHub\\Prototype\\Prototype.Application.MVC\\Prototype.Application.MVC.csproj",
+        "projectPath": "D:\\GitHub\\TCC\\Prototype\\Prototype.Application.MVC\\Prototype.Application.MVC.csproj",
         "packagesPath": "C:\\Users\\GabrielPuente\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\Prototype\\Prototype.Application.MVC\\obj\\",
+        "outputPath": "D:\\GitHub\\TCC\\Prototype\\Prototype.Application.MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

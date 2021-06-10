@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6/AVGBPYumlK8JegAMGlw5E7rChtZ9M9gCzin/5DFIspTK1KFwwydby+r1ZeVvORhFrBiAq2Wexudbq+syBnew==",
+  "dgSpecHash": "X57VvQgUKZJBrEaDRun32F4tJnhBfXAVLgM1CKOsPXuqElpwxpehYdTYLipdH9iWBhoHdHBdZ/oTo7vEDsKFSA==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\Prototype\\Prototype.Domain\\Prototype.Domain.csproj",
+  "projectFilePath": "D:\\GitHub\\TCC\\Prototype\\Prototype.Domain\\Prototype.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GabrielPuente\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
