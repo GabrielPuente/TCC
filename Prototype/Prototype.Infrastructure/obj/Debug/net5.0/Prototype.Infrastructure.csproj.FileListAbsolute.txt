@@ -1,0 +1,12 @@
+D:\GitHub\Prototype\Prototype.Infrastructure\bin\Debug\net5.0\Prototype.Infrastructure.deps.json
+D:\GitHub\Prototype\Prototype.Infrastructure\bin\Debug\net5.0\Prototype.Infrastructure.dll
+D:\GitHub\Prototype\Prototype.Infrastructure\bin\Debug\net5.0\ref\Prototype.Infrastructure.dll
+D:\GitHub\Prototype\Prototype.Infrastructure\bin\Debug\net5.0\Prototype.Infrastructure.pdb
+D:\GitHub\Prototype\Prototype.Infrastructure\obj\Debug\net5.0\Prototype.Infrastructure.csprojAssemblyReference.cache
+D:\GitHub\Prototype\Prototype.Infrastructure\obj\Debug\net5.0\Prototype.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Prototype\Prototype.Infrastructure\obj\Debug\net5.0\Prototype.Infrastructure.AssemblyInfoInputs.cache
+D:\GitHub\Prototype\Prototype.Infrastructure\obj\Debug\net5.0\Prototype.Infrastructure.AssemblyInfo.cs
+D:\GitHub\Prototype\Prototype.Infrastructure\obj\Debug\net5.0\Prototype.Infrastructure.csproj.CoreCompileInputs.cache
+D:\GitHub\Prototype\Prototype.Infrastructure\obj\Debug\net5.0\Prototype.Infrastructure.dll
+D:\GitHub\Prototype\Prototype.Infrastructure\obj\Debug\net5.0\ref\Prototype.Infrastructure.dll
+D:\GitHub\Prototype\Prototype.Infrastructure\obj\Debug\net5.0\Prototype.Infrastructure.pdb

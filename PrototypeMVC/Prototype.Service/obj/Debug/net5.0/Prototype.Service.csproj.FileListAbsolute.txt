@@ -1,0 +1,15 @@
+D:\GitHub\Prototype\Prototype.Service\bin\Debug\net5.0\Prototype.Service.deps.json
+D:\GitHub\Prototype\Prototype.Service\bin\Debug\net5.0\Prototype.Service.dll
+D:\GitHub\Prototype\Prototype.Service\bin\Debug\net5.0\ref\Prototype.Service.dll
+D:\GitHub\Prototype\Prototype.Service\bin\Debug\net5.0\Prototype.Service.pdb
+D:\GitHub\Prototype\Prototype.Service\bin\Debug\net5.0\Prototype.Domain.dll
+D:\GitHub\Prototype\Prototype.Service\bin\Debug\net5.0\Prototype.Domain.pdb
+D:\GitHub\Prototype\Prototype.Service\obj\Debug\net5.0\Prototype.Service.csprojAssemblyReference.cache
+D:\GitHub\Prototype\Prototype.Service\obj\Debug\net5.0\Prototype.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Prototype\Prototype.Service\obj\Debug\net5.0\Prototype.Service.AssemblyInfoInputs.cache
+D:\GitHub\Prototype\Prototype.Service\obj\Debug\net5.0\Prototype.Service.AssemblyInfo.cs
+D:\GitHub\Prototype\Prototype.Service\obj\Debug\net5.0\Prototype.Service.csproj.CoreCompileInputs.cache
+D:\GitHub\Prototype\Prototype.Service\obj\Debug\net5.0\Prototype.Service.csproj.CopyComplete
+D:\GitHub\Prototype\Prototype.Service\obj\Debug\net5.0\Prototype.Service.dll
+D:\GitHub\Prototype\Prototype.Service\obj\Debug\net5.0\ref\Prototype.Service.dll
+D:\GitHub\Prototype\Prototype.Service\obj\Debug\net5.0\Prototype.Service.pdb

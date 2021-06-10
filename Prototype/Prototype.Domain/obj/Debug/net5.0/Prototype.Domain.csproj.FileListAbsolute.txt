@@ -1,0 +1,12 @@
+D:\GitHub\Prototype\Prototype.Domain\bin\Debug\net5.0\Prototype.Domain.deps.json
+D:\GitHub\Prototype\Prototype.Domain\bin\Debug\net5.0\Prototype.Domain.dll
+D:\GitHub\Prototype\Prototype.Domain\bin\Debug\net5.0\ref\Prototype.Domain.dll
+D:\GitHub\Prototype\Prototype.Domain\bin\Debug\net5.0\Prototype.Domain.pdb
+D:\GitHub\Prototype\Prototype.Domain\obj\Debug\net5.0\Prototype.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Prototype\Prototype.Domain\obj\Debug\net5.0\Prototype.Domain.AssemblyInfoInputs.cache
+D:\GitHub\Prototype\Prototype.Domain\obj\Debug\net5.0\Prototype.Domain.AssemblyInfo.cs
+D:\GitHub\Prototype\Prototype.Domain\obj\Debug\net5.0\Prototype.Domain.csproj.CoreCompileInputs.cache
+D:\GitHub\Prototype\Prototype.Domain\obj\Debug\net5.0\Prototype.Domain.dll
+D:\GitHub\Prototype\Prototype.Domain\obj\Debug\net5.0\ref\Prototype.Domain.dll
+D:\GitHub\Prototype\Prototype.Domain\obj\Debug\net5.0\Prototype.Domain.pdb
+D:\GitHub\Prototype\Prototype.Domain\obj\Debug\net5.0\Prototype.Domain.csprojAssemblyReference.cache
