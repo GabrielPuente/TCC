@@ -10,3 +10,15 @@ D:\GitHub\Prototype\Prototype.Domain\obj\Debug\net5.0\Prototype.Domain.dll
 D:\GitHub\Prototype\Prototype.Domain\obj\Debug\net5.0\ref\Prototype.Domain.dll
 D:\GitHub\Prototype\Prototype.Domain\obj\Debug\net5.0\Prototype.Domain.pdb
 D:\GitHub\Prototype\Prototype.Domain\obj\Debug\net5.0\Prototype.Domain.csprojAssemblyReference.cache
+D:\GitHub\TCC\Prototype\Prototype.Domain\bin\Debug\net5.0\Prototype.Domain.deps.json
+D:\GitHub\TCC\Prototype\Prototype.Domain\bin\Debug\net5.0\Prototype.Domain.dll
+D:\GitHub\TCC\Prototype\Prototype.Domain\bin\Debug\net5.0\ref\Prototype.Domain.dll
+D:\GitHub\TCC\Prototype\Prototype.Domain\bin\Debug\net5.0\Prototype.Domain.pdb
+D:\GitHub\TCC\Prototype\Prototype.Domain\obj\Debug\net5.0\Prototype.Domain.csprojAssemblyReference.cache
+D:\GitHub\TCC\Prototype\Prototype.Domain\obj\Debug\net5.0\Prototype.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\TCC\Prototype\Prototype.Domain\obj\Debug\net5.0\Prototype.Domain.AssemblyInfoInputs.cache
+D:\GitHub\TCC\Prototype\Prototype.Domain\obj\Debug\net5.0\Prototype.Domain.AssemblyInfo.cs
+D:\GitHub\TCC\Prototype\Prototype.Domain\obj\Debug\net5.0\Prototype.Domain.csproj.CoreCompileInputs.cache
+D:\GitHub\TCC\Prototype\Prototype.Domain\obj\Debug\net5.0\Prototype.Domain.dll
+D:\GitHub\TCC\Prototype\Prototype.Domain\obj\Debug\net5.0\ref\Prototype.Domain.dll
+D:\GitHub\TCC\Prototype\Prototype.Domain\obj\Debug\net5.0\Prototype.Domain.pdb
