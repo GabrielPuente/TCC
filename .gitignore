@@ -1,0 +1,16 @@
+.vs
+.vs
+*.csproj.user
+thunders.web/src/assets/environment.*.json
+
+/thunders.legal/src/Thunders.Legal.API/legal/
+/thunders.legal/scripts/importFiles/yarn-error.log
+.vscode
+bin/
+obj/
+TestResults/
+*.user
+serviceDependencies*.json
+/tools/Thunders.ServicesBook.Validator/Thunders.ServicesBook.Validator.Console/Properties/launchSettings.json
+/thunders.web/debug.log
+thunders.web/debug.log
