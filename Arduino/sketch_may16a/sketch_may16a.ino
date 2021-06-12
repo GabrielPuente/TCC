@@ -4,9 +4,9 @@
 dht DHT;
 
 //defines
-#define NAME_WIFI "VIVOFIBRA-63D0"
-#define PASSWORD_WIFI "3D284F6A83"
-#define INTERVAL_SEND_THINGSPEAK 30000 
+#define NAME_WIFI "VIVOFIBRA-63D0" //coloque aqui o nome da rede que se deseja conectar
+#define PASSWORD_WIFI "3D284F6A83" //coloque aqui a senha da rede que se deseja conectar
+#define INTERVAL_SEND_THINGSPEAK 30000 //intervalo entre envios de dados ao ThingSpeak (em ms)
 #define DHT11_PIN D1
 #define pinSensorA A0
 
@@ -17,11 +17,13 @@ long lastConnectionTime;
 int counter = 0;
 WiFiClient client;
  
-//prototypes
+//functions
 void SendValuesThingspeak(String values);
 void ConectWiFi(void);
 float ReadHumidity(void);
 
+//Função: envia informações ao ThingSpeak
+//Parâmetros: String com a  informação a ser enviada
 void SendValuesThingspeak(String values)
 {
     if (client.connect(APIThingSpeak, 80))
@@ -42,7 +44,8 @@ void SendValuesThingspeak(String values)
         Serial.println("- Informações enviadas ao ThingSpeak!");
      }  
 }
- 
+
+//Função: faz a conexão WiFI
 void ConectWiFi(void)
 {
     client.stop();
@@ -60,6 +63,9 @@ void ConectWiFi(void)
     delay(1000);
 }
 
+//Função: faz a leitura do nível de umidade
+//Parâmetros: nenhum
+//Retorno: umidade percentual (0-100)
 float ReadHumidity(void)
 {
     int humidityValue;
@@ -89,7 +95,8 @@ void loop()
   char FieldHumidity[11];
   char FielddhtHumidity[11];
   char FielddhtTemperature[11];
-  
+
+  //Força desconexão ao ThingSpeak (se ainda estiver desconectado)
   if (client.connected())
   {
       client.stop();
@@ -108,7 +115,8 @@ void loop()
     dhtHumidity = (float)DHT.humidity;
     dhtTemperature = (float)DHT.temperature;
   }
-  
+
+  //verifica se está conectado no WiFi e se é o momento de enviar dados ao ThingSpeak
   if(!client.connected() && (millis() - lastConnectionTime > INTERVAL_SEND_THINGSPEAK))
   {
     if(counter == 0)
