@@ -4,15 +4,15 @@
 dht DHT;
 
 //defines
-#define NAME_WIFI "VIVOFIBRA-63D0" //coloque aqui o nome da rede que se deseja conectar
-#define PASSWORD_WIFI "3D284F6A83" //coloque aqui a senha da rede que se deseja conectar
+#define NAME_WIFI "" //coloque aqui o nome da rede que se deseja conectar
+#define PASSWORD_WIFI "" //coloque aqui a senha da rede que se deseja conectar
 #define INTERVAL_SEND_THINGSPEAK 30000 //intervalo entre envios de dados ao ThingSpeak (em ms)
 #define DHT11_PIN D1
 #define pinSensorA A0
 
 //constants
 char APIThingSpeak[] = "api.thingspeak.com";
-String ReadKeyThingSpeak = "25E4UHML25S3EKAW";
+String ReadKeyThingSpeak = ""; //Coloque aqui sua chave de leitura da API do thingspeak
 long lastConnectionTime; 
 int counter = 0;
 WiFiClient client;
